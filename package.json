@@ -1,0 +1,14 @@
+{
+  "name": "language-buzz",
+  "version": "1.0.0",
+  "description": "Buzz language created for COMP2212",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/atom/language-buzz",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
