@@ -1,3 +1,3 @@
-# PackageName language package
+# Buzz language package
 
-A short description of your language package.
+An Atom language pack for the Buzz language created as part of COMP2212
